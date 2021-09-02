@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "administratorLogin": {
-            "value": "ledgeruser"
+            "value": "SQLledgeruser"
         },
         "administratorLoginPassword": {
-            "value": null
+            "value": "Sql3dger"
         },
         "collation": {
             "value": "SQL_Latin1_General_CP1_CI_AS"
