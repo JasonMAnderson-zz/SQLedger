@@ -190,7 +190,7 @@
         },
         "enableSqlLedger": {
             "type": "bool",
-            "defaultValue": false
+            "defaultValue": true
         },
         "connectionType": {
             "type": "string",
